@@ -1,0 +1,13 @@
+{
+  "name": "memory-game-server",
+  "version": "1.0.0",
+  "description": "Classic matching card game with a 2-player twist",
+  "main": "server.js",
+  "repository": "https://github.com/LarissaMorrell/memory-game-server",
+  "author": "Larissa Morrell",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^14.4.0",
+    "ws": "^7.3.0"
+  }
+}
